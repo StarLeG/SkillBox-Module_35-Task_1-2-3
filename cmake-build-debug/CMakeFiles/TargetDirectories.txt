@@ -1,0 +1,5 @@
+D:/SkillBox/Module 35/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir
+D:/SkillBox/Module 35/Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SkillBox/Module 35/Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/SkillBox/Module 35/Task 1/cmake-build-debug/CMakeFiles/Task_1_autogen_timestamp_deps.dir
+D:/SkillBox/Module 35/Task 1/cmake-build-debug/CMakeFiles/Task_1_autogen.dir

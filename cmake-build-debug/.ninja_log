@@ -1,0 +1,89 @@
+# ninja log v5
+57	553	6937109632180043	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+57	553	6937109632180043	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+57	553	6937109632180043	Task_1_autogen/timestamp	54c4576961a6792b
+57	553	6937109632180043	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+2319	4148	6936987733481955	CMakeFiles/Task_1.dir/Task_1_autogen/mocs_compilation.cpp.obj	649c6e152a716b46
+44	2173	6936988812105707	build.ninja	dacf47d89c6f8c79
+555	3881	6937109665660272	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+3882	5888	6937109677333972	Task_1.exe	bbb6c9a681ec23a3
+19	261	6937109810785943	Task_1_autogen/timestamp	54c4576961a6792b
+19	261	6937109810785943	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+19	261	6937109810785943	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+19	261	6937109810785943	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+263	3380	6937109841940703	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+3381	5804	6937109853955387	Task_1.exe	bbb6c9a681ec23a3
+45	315	6937110126067524	Task_1_autogen/timestamp	54c4576961a6792b
+45	315	6937110126067524	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+45	315	6937110126067524	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+45	315	6937110126067524	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+316	2392	6937110146793352	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+2393	3808	6937110154953558	Task_1.exe	bbb6c9a681ec23a3
+44	336	6937111007896393	Task_1_autogen/timestamp	54c4576961a6792b
+44	336	6937111007896393	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+44	336	6937111007896393	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+44	336	6937111007896393	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+338	3674	6937111040956145	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+3678	5349	6937111051877912	Task_1.exe	bbb6c9a681ec23a3
+41	2244	6937111370592191	Task_1_autogen/timestamp	54c4576961a6792b
+41	2244	6937111370592191	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+41	2244	6937111370592191	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+41	2244	6937111370592191	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+2247	9376	6937111441752901	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+9377	12031	6937111453990903	Task_1.exe	bbb6c9a681ec23a3
+169	1988	6937112072477935	Task_1_autogen/timestamp	54c4576961a6792b
+169	1988	6937112072477935	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+169	1988	6937112072477935	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+169	1988	6937112072477935	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+57	698	6937112201271586	Task_1_autogen/timestamp	54c4576961a6792b
+57	698	6937112201271586	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+57	698	6937112201271586	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+57	698	6937112201271586	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+700	4323	6937112238384634	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+4324	6032	6937112248758484	Task_1.exe	bbb6c9a681ec23a3
+43	456	6937112685095720	Task_1_autogen/timestamp	54c4576961a6792b
+43	456	6937112685095720	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+43	456	6937112685095720	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+43	456	6937112685095720	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+458	3109	6937112711714677	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+3110	5273	6937112721862862	Task_1.exe	bbb6c9a681ec23a3
+14	228	6937113204337463	Task_1_autogen/timestamp	54c4576961a6792b
+14	228	6937113204337463	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+14	228	6937113204337463	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+14	228	6937113204337463	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+230	2805	6937113229978310	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+2805	5591	6937113249029652	Task_1.exe	bbb6c9a681ec23a3
+7	228	6937113371050895	Task_1_autogen/timestamp	54c4576961a6792b
+7	228	6937113371050895	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+7	228	6937113371050895	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+7	228	6937113371050895	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+230	6569	6937113434381762	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+6570	9581	6937113446035101	Task_1.exe	bbb6c9a681ec23a3
+61	359	6937113683428088	Task_1_autogen/timestamp	54c4576961a6792b
+61	359	6937113683428088	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+61	359	6937113683428088	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+61	359	6937113683428088	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+9	192	6937113760252303	Task_1_autogen/timestamp	54c4576961a6792b
+9	192	6937113760252303	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+9	192	6937113760252303	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+9	192	6937113760252303	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+194	2376	6937113782083772	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+2376	4155	6937113792851344	Task_1.exe	bbb6c9a681ec23a3
+44	1154	6937114055935889	Task_1_autogen/timestamp	54c4576961a6792b
+44	1154	6937114055935889	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+44	1154	6937114055935889	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+44	1154	6937114055935889	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+1157	7520	6937114120016599	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+7521	9073	6937114129116544	Task_1.exe	bbb6c9a681ec23a3
+37	735	6937114373270456	Task_1_autogen/timestamp	54c4576961a6792b
+37	735	6937114373270456	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+37	735	6937114373270456	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+37	735	6937114373270456	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+737	3284	6937114398655589	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+3285	5020	6937114408143737	Task_1.exe	bbb6c9a681ec23a3
+120	1793	6937115393521050	Task_1_autogen/timestamp	54c4576961a6792b
+120	1793	6937115393521050	Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+120	1793	6937115393521050	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/timestamp	54c4576961a6792b
+120	1793	6937115393521050	D:/SkillBox/Module 35/Task 1/cmake-build-debug/Task_1_autogen/mocs_compilation.cpp	54c4576961a6792b
+1794	4150	6937115417068305	CMakeFiles/Task_1.dir/main.cpp.obj	221159ec1e47495c
+4151	7200	6937115431671170	Task_1.exe	bbb6c9a681ec23a3
