@@ -38,27 +38,25 @@ int main()
 	auto foo = [&myVector](int a)
 	{
 		int cnt = 0;
-		std::unordered_set<int> myList_1;
+		std::unordered_multiset<int> myList_1(myVector.begin(),myVector.end());
+
 		for (auto i: myVector)
 		{
-			if (myList_1.count(i) == 1) cnt++;
-
-			std ::cout<< i << " ";
+			std::cout << i << " ";
 		}
+
 		std::cout << "\n*********************" << std::endl;
 
 		for (auto i: myList_1)
 		{
-
-
 			std::cout << i << " ";
 
 		}
 		std::cout << std::endl;
-		return cnt;
+		return myList_1.count(a);
 	};
 
-	std:: cout << foo(1) << std::endl;
+	std:: cout << foo(2) << std::endl;
 
 
 	return 0;
