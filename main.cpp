@@ -3,7 +3,7 @@
 #include <vector>
 #include <ctime>
 #include <unordered_set>
-#include <memory>
+
 
 
 int main()
@@ -57,6 +57,9 @@ int main()
 	};
 
 	std:: cout << foo(2) << std::endl;
+
+		std::cout << "*************************************" << std::endl;
+	std::cout << "Task 3" << std::endl;
 
 
 	return 0;
